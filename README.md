@@ -1,237 +1,161 @@
-# 🧠 Bashir Alam — Machine Learning Engineer
+# 🧠 Bashir Alam
 
-🚀 Designing production AI systems that turn data into real-world decisions
-📍 Turku, Finland | 🇪🇺 Open to ML / Data Science roles in Europe
+### Machine Learning Engineer | Production AI Systems | Applied ML
 
----
-
-## ⚡ What I Build
-
-I specialize in **end-to-end machine learning systems**, not just models.
-
-From data → training → deployment → monitoring → business impact.
+🚀 Building **end-to-end machine learning systems** that drive real-world decisions
+📍 Turku, Finland 🇫🇮 | Open to ML / AI roles across Europe
 
 ---
 
-## 🧩 System Thinking (How I Work)
+## ⚡ What Makes Me Different
+
+I don’t just build models —
+I design **production-grade ML systems** that connect:
 
 ```text
-Business Problem
-      ↓
-Data Pipeline (ETL / Feature Engineering)
-      ↓
-ML Model (Forecasting / NLP / Vision / LLMs)
-      ↓
-Evaluation & Benchmarking
-      ↓
-Deployment (APIs / Docker / Triton / Cloud)
-      ↓
-Monitoring & Iteration
+Data → Models → Infrastructure → Business Impact
 ```
 
----
-
-# 🏗️ Featured ML Systems (Architecture + Impact)
-
----
-
-## 🛒 1. Retail Demand Forecasting Platform (Production System)
-
-### 🧠 Problem
-
-Retailers need accurate forecasting for **sales, demand, and inventory planning**
+✔️ Real-world deployment experience
+✔️ Full ownership (data → model → deployment → monitoring)
+✔️ Strong focus on **system design + scalability + impact**
 
 ---
 
-### 🏗️ Architecture
+## 🏗️ Featured Systems (Real-World ML)
+
+---
+
+### 🛒 Retail Demand Forecasting Platform (Production)
+
+**Problem:**
+Businesses struggle with accurate forecasting for budgeting & inventory
+
+**What I Built:**
+
+* End-to-end **multi-level forecasting system**
+* Models for **sales, orders, product demand**
+* Fully deployed pipeline used by **real clients**
 
 ```text
-        ┌──────────────┐
-        │ Retail Data   │
-        │ (POS, Sales)  │
-        └──────┬───────┘
-               ↓
-     ┌──────────────────┐
-     │ Feature Pipeline  │
-     │ (Pandas, SQL)     │
-     └──────┬───────────┘
-               ↓
-     ┌──────────────────┐
-     │ Forecast Models   │
-     │ (Time Series DL)  │
-     └──────┬───────────┘
-               ↓
-     ┌──────────────────┐
-     │ Deployment Layer  │
-     │ (APIs / Batch)    │
-     └──────┬───────────┘
-               ↓
-     ┌──────────────────┐
-     │ Business Users    │
-     │ (Planning Teams)  │
-     └──────────────────┘
+POS Data → Feature Engineering → Forecast Models → API/Batch → Business Teams
 ```
 
----
+**Impact:**
 
-### 📊 Impact
-
-* Enabled **multi-level demand forecasting**
-* Improved **budget planning accuracy**
-* Reduced uncertainty in **inventory decisions**
-* Currently extending to **stock-level optimization**
+* 📊 Improved forecasting accuracy
+* 💰 Enabled data-driven budgeting
+* 📦 Supporting inventory optimization (ongoing)
 
 ---
 
-## 🧪 2. Multimodal AI Benchmarking System
+### 🧪 Multimodal AI Benchmarking System
 
-### 🧠 Problem
+**Problem:**
+No reliable way to evaluate vision-language models in real-world scenarios
 
-Need to evaluate **vision-language models in real-world environments**
+**What I Built:**
 
----
-
-### 🏗️ Architecture
+* Scalable **benchmarking pipeline for VLMs**
+* Dockerized inference using **Triton Server**
+* Scenario-based evaluation (traffic, indoor, anomalies)
 
 ```text
-        ┌──────────────┐
-        │ Image Sources  │
-        │ (COCO, Web)   │
-        └──────┬───────┘
-               ↓
-     ┌──────────────────┐
-     │ Scenario Builder  │
-     │ (Labelled Scenes) │
-     └──────┬───────────┘
-               ↓
-     ┌─────────────────────────┐
-     │ VLM Inference Layer     │
-     │ Docker + Triton Server  │
-     └──────┬──────────────────┘
-               ↓
-     ┌─────────────────────────┐
-     │ Evaluation Engine       │
-     │ Accuracy / Robustness   │
-     └──────┬──────────────────┘
-               ↓
-     ┌─────────────────────────┐
-     │ Benchmark Reports       │
-     └─────────────────────────┘
+Image Data → Scenario Engine → VLM Inference → Evaluation → Benchmark Reports
 ```
 
----
+**Impact:**
 
-### 📊 Impact
-
-* Built scalable **VLM evaluation pipeline**
-* Enabled **model comparison under real-world conditions**
-* Improved robustness testing for safety-critical scenarios
+* 🧠 Improved model selection strategies
+* ⚠️ Robustness testing for safety-critical use cases
 
 ---
 
-## 🏥 3. Medical OCR Intelligence System
+### 🏥 Medical OCR Intelligence System
 
-### 🧠 Problem
+**Problem:**
+Unstructured medical prescriptions → unusable data
 
-Digitizing unstructured medical prescriptions into structured data
+**What I Built:**
 
----
-
-### 🏗️ Architecture
+* OCR + NLP pipeline for structured extraction
+* Data validation tools for quality improvement
 
 ```text
-     ┌──────────────┐
-     │ PDF Scans     │
-     └──────┬───────┘
-               ↓
-     ┌──────────────────┐
-     │ OCR Engine        │
-     │ Tesseract / DL    │
-     └──────┬───────────┘
-               ↓
-     ┌──────────────────┐
-     │ Text Structuring  │
-     │ NLP + Rules       │
-     └──────┬───────────┘
-               ↓
-     ┌──────────────────┐
-     │ Validation Layer  │
-     └──────┬───────────┘
-               ↓
-     ┌──────────────────┐
-     │ Healthcare DB     │
-     └──────────────────┘
+PDF → OCR → Text Structuring → Validation → Healthcare DB
 ```
 
----
+**Impact:**
 
-### 📊 Impact
-
-* Automated extraction of medical records
-* Improved data usability for healthcare systems
+* 📄 Automated medical record digitization
+* 🏥 Improved healthcare data accessibility
 
 ---
 
-## 🚖 4. Mobility Demand Prediction System
+### 🚖 Mobility Demand Prediction System
 
-### 🧠 Problem
+**Problem:**
+High ride cancellations due to supply-demand imbalance
 
-Optimize driver allocation in ride-hailing systems
+**What I Built:**
 
----
-
-### 🏗️ Architecture
+* Spatio-temporal demand forecasting models
+* Driver allocation insights
 
 ```text
-   Location + Time Data
-           ↓
-   Spatio-temporal Features
-           ↓
-   Demand Prediction Model
-           ↓
-   Hotspot Forecasting Engine
-           ↓
-   Driver Allocation Strategy
+Time + Location → Features → Demand Model → Hotspots → Allocation Strategy
 ```
 
----
+**Impact:**
 
-### 📊 Impact
-
-* Identified **supply-demand imbalance**
-* Improved driver positioning strategy
-* Reduced inefficiencies in ride allocation
+* 🚗 Reduced inefficiencies
+* ⏱️ Improved rider experience
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-**ML & AI**
+### 🤖 Machine Learning
+
 PyTorch • TensorFlow • Transformers • scikit-learn
-Time-series Forecasting • Deep Learning • LLM evaluation
+Time-Series Forecasting • Deep Learning • LLM Evaluation
 
-**MLOps & Systems**
+### ⚙️ MLOps & Systems
+
 Docker • Triton Inference Server • ML Pipelines
-AWS (S3, EC2, SageMaker) • GPU clusters (CSC Puhti)
+AWS (S3, EC2, SageMaker) • GPU Clusters
 
-**Data & Analytics**
+### 📊 Data & Analytics
+
 Pandas • NumPy • SQL • EDA • Statistical Modeling
 
-**Visualization**
+### 📈 Visualization
+
 Plotly • Streamlit • Dash • Power BI • Tableau
 
 ---
 
-# 🧠 Engineering Mindset
+## 🧠 How I Think
 
 ```text
-I don’t just train models —
-I design systems that make models useful in production.
+Most ML projects fail not because of bad models,
+but because of poor system design.
+
+I focus on building systems that make models usable.
 ```
 
 ---
 
-# 📊 GitHub Activity
+## 🔬 Current Focus
+
+* 🧠 LLM evaluation & applied GenAI systems
+* 📊 Advanced time-series forecasting
+* ⚙️ Scalable ML infrastructure
+* 🧪 Real-world AI benchmarking
+
+---
+
+## 📊 GitHub Insights
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bashiralam185\&show_icons=true\&theme=tokyonight\&hide_border=true)
 
@@ -239,99 +163,41 @@ I design systems that make models useful in production.
 
 ---
 
-# 📫 Contact
-
-📧 [bashir.alam@abo.fi](mailto:bashir.alam@abo.fi)
-💼 LinkedIn: (add link)
-💻 GitHub: GitHub / bashiralam185
-
----
-
-## ⭐ Final Note
-
-> “Strong ML engineers are not defined by models they train, but by systems they build and deploy.”
-
----
-
-⭐ Explore my repositories to see production ML systems, applied AI engineering, and real-world machine learning design.
-
----
-
-### 🔐 Privacy-Preserving Sales Benchmarking
-
-> Cross-restaurant analytics without exposing sensitive business data
-
-* Designed **secure indexing framework**
-* Standardized product taxonomy across multiple sources
-
----
-
-### 📈 Demand Forecasting Systems (Production)
-
-> Real-world deployed ML systems used by businesses
-
-* Forecasting: **sales, orders, product demand**
-* Enabled **budget planning & operational decisions**
-* Currently expanding into **inventory optimization**
-
----
-
 ## 💼 Experience Snapshot
 
-### 🧪 Machine Learning Researcher — Zoined (Finland)
+**Machine Learning Researcher — Zoined (Finland)**
 
-* Built **end-to-end forecasting pipelines**
-* Delivered **production-ready ML systems for retail clients**
-* Working on **inventory-level prediction systems**
+* Built production **forecasting systems for retail clients**
+* End-to-end ownership from data → deployment
 
----
+**Multimodal AI Intern — AiLiveSim**
 
-### 🧠 Multimodal AI Research Intern — AiLiveSim
+* Designed **VLM benchmarking pipeline**
+* Built scalable **Docker + Triton system**
 
-* Developed **benchmarking pipeline for vision-language models**
-* Built **Docker + Triton-based scalable evaluation system**
-* Focus: **robustness & real-world scenario testing**
+**ML Engineer — Uexel**
 
----
+* Developed **OCR pipeline for healthcare data**
 
-### 🏥 ML Engineer — Uexel
+**ML Engineer — Reviro**
 
-* Built **OCR pipeline for medical documents**
-* Automated extraction of structured healthcare data
+* Built **demand prediction models for ride-hailing**
 
 ---
 
-### 🚖 ML Engineer — Reviro
+## 📫 Let’s Connect
 
-* Developed **demand prediction models for ride-hailing**
-* Improved **driver allocation & reduced cancellations**
-
----
-
-## 📊 GitHub Analytics
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bashiralam185&show_icons=true&theme=tokyonight)
-
-## 🔬 Current Focus
-
-* 🧠 LLM evaluation & applied GenAI systems
-* 📊 Advanced time-series forecasting
-* ⚙️ Scalable ML infrastructure & deployment
-* 🧪 Real-world AI benchmarking systems
-
----
-
-## 📫 Let's Connect
-
-* 📧 [bashir.alam@abo.fi](mailto:bashir.alam@abo.fi)
-* 💼 LinkedIn: [https://www.linkedin.com/in/bashir-alam/]
+📧 [bashir.alam@abo.fi](mailto:bashir.alam@abo.fi)
+💼 https://www.linkedin.com/in/bashir-alam/
 
 ---
 
 ## 💡 Philosophy
 
-> “Good models don’t just perform well — they create real impact when deployed in the right system.”
+> “ML is not about models — it’s about building systems that create impact.”
 
 ---
 
-⭐ *If you're a recruiter or collaborator, feel free to explore my repositories — they reflect real-world problem solving and production-oriented thinking. Additional industry projects are available to discuss upon request.*
-
+⭐ If you're a recruiter or hiring manager:
+This profile reflects **real-world ML system design, not just experiments**.
+Happy to discuss production projects and architecture decisions.
