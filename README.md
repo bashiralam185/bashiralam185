@@ -104,10 +104,9 @@ I build **production-grade AI systems** that solve real-world business problems 
 
 ## 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bashiralam185\&show_icons=true\&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bashiralam185\&layout=compact\&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bashiralam185&show_icons=true&hide_border=true)
 
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bashiralam185&layout=compact&hide_border=true)
 
 ## 🔬 Current Focus
 
