@@ -103,8 +103,8 @@ I build **production-grade AI systems** that solve real-world business problems 
 ---
 
 ## 📊 GitHub Analytics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bashiralam185&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bashiralam185&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bashiralam185&show_icons=true&theme=tokyonight)
+
 ## 🔬 Current Focus
 
 * 🧠 LLM evaluation & applied GenAI systems
