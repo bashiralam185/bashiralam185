@@ -1,53 +1,259 @@
-# 👋 Hi, I'm Bashir Alam
+# 🧠 Bashir Alam — Machine Learning Engineer
 
-🚀 **Machine Learning Engineer | Data Scientist**
-📍 Turku, Finland | 🇪🇺 Open to opportunities across Europe
-
----
-
-## 🧠 About Me
-
-I build **production-grade AI systems** that solve real-world business problems — especially in **retail analytics, forecasting, and applied AI systems**.
-
-* 🔍 Currently working on **demand forecasting & inventory optimization**
-* 🤖 Exploring **Generative AI, LLM evaluation & multimodal systems**
-* ⚙️ Strong focus on **end-to-end ML pipelines & scalable deployment**
-* 🎯 Goal: Contribute to impactful **AI-driven products**
+🚀 Designing production AI systems that turn data into real-world decisions
+📍 Turku, Finland | 🇪🇺 Open to ML / Data Science roles in Europe
 
 ---
 
-## ⚡ Tech Stack
+## ⚡ What I Build
 
-### 👨‍💻 Languages
+I specialize in **end-to-end machine learning systems**, not just models.
 
-`Python` (Advanced) | `SQL`
-
-### 🤖 Machine Learning & AI
-
-`PyTorch` • `TensorFlow` • `scikit-learn`
-`Transformers` • `Time-Series Forecasting` • `Deep Learning`
-`Feature Engineering` • `Model Evaluation`
-
-### 📊 Data & Visualization
-
-`Pandas` • `NumPy` • `EDA` • `Statistical Analysis`
-`Matplotlib` • `Seaborn` • `Plotly` • `Dash` • `Streamlit`
-
-### ⚙️ MLOps & Infrastructure
-
-`Docker` • `ML Pipelines` • `Triton Inference Server`
-`AWS (S3, EC2, SageMaker)` • `GPU Clusters (CSC Puhti)`
+From data → training → deployment → monitoring → business impact.
 
 ---
 
-## 🚀 Featured Projects
+## 🧩 System Thinking (How I Work)
 
-### 🛒 Retail Product Classification System
+```text
+Business Problem
+      ↓
+Data Pipeline (ETL / Feature Engineering)
+      ↓
+ML Model (Forecasting / NLP / Vision / LLMs)
+      ↓
+Evaluation & Benchmarking
+      ↓
+Deployment (APIs / Docker / Triton / Cloud)
+      ↓
+Monitoring & Iteration
+```
 
-> Multilingual transformer-based system for mapping messy POS data into structured product taxonomy
+---
 
-* Improved consistency across retail datasets
-* Built using **transformer embeddings + semantic matching**
+# 🏗️ Featured ML Systems (Architecture + Impact)
+
+---
+
+## 🛒 1. Retail Demand Forecasting Platform (Production System)
+
+### 🧠 Problem
+
+Retailers need accurate forecasting for **sales, demand, and inventory planning**
+
+---
+
+### 🏗️ Architecture
+
+```text
+        ┌──────────────┐
+        │ Retail Data   │
+        │ (POS, Sales)  │
+        └──────┬───────┘
+               ↓
+     ┌──────────────────┐
+     │ Feature Pipeline  │
+     │ (Pandas, SQL)     │
+     └──────┬───────────┘
+               ↓
+     ┌──────────────────┐
+     │ Forecast Models   │
+     │ (Time Series DL)  │
+     └──────┬───────────┘
+               ↓
+     ┌──────────────────┐
+     │ Deployment Layer  │
+     │ (APIs / Batch)    │
+     └──────┬───────────┘
+               ↓
+     ┌──────────────────┐
+     │ Business Users    │
+     │ (Planning Teams)  │
+     └──────────────────┘
+```
+
+---
+
+### 📊 Impact
+
+* Enabled **multi-level demand forecasting**
+* Improved **budget planning accuracy**
+* Reduced uncertainty in **inventory decisions**
+* Currently extending to **stock-level optimization**
+
+---
+
+## 🧪 2. Multimodal AI Benchmarking System
+
+### 🧠 Problem
+
+Need to evaluate **vision-language models in real-world environments**
+
+---
+
+### 🏗️ Architecture
+
+```text
+        ┌──────────────┐
+        │ Image Sources  │
+        │ (COCO, Web)   │
+        └──────┬───────┘
+               ↓
+     ┌──────────────────┐
+     │ Scenario Builder  │
+     │ (Labelled Scenes) │
+     └──────┬───────────┘
+               ↓
+     ┌─────────────────────────┐
+     │ VLM Inference Layer     │
+     │ Docker + Triton Server  │
+     └──────┬──────────────────┘
+               ↓
+     ┌─────────────────────────┐
+     │ Evaluation Engine       │
+     │ Accuracy / Robustness   │
+     └──────┬──────────────────┘
+               ↓
+     ┌─────────────────────────┐
+     │ Benchmark Reports       │
+     └─────────────────────────┘
+```
+
+---
+
+### 📊 Impact
+
+* Built scalable **VLM evaluation pipeline**
+* Enabled **model comparison under real-world conditions**
+* Improved robustness testing for safety-critical scenarios
+
+---
+
+## 🏥 3. Medical OCR Intelligence System
+
+### 🧠 Problem
+
+Digitizing unstructured medical prescriptions into structured data
+
+---
+
+### 🏗️ Architecture
+
+```text
+     ┌──────────────┐
+     │ PDF Scans     │
+     └──────┬───────┘
+               ↓
+     ┌──────────────────┐
+     │ OCR Engine        │
+     │ Tesseract / DL    │
+     └──────┬───────────┘
+               ↓
+     ┌──────────────────┐
+     │ Text Structuring  │
+     │ NLP + Rules       │
+     └──────┬───────────┘
+               ↓
+     ┌──────────────────┐
+     │ Validation Layer  │
+     └──────┬───────────┘
+               ↓
+     ┌──────────────────┐
+     │ Healthcare DB     │
+     └──────────────────┘
+```
+
+---
+
+### 📊 Impact
+
+* Automated extraction of medical records
+* Improved data usability for healthcare systems
+
+---
+
+## 🚖 4. Mobility Demand Prediction System
+
+### 🧠 Problem
+
+Optimize driver allocation in ride-hailing systems
+
+---
+
+### 🏗️ Architecture
+
+```text
+   Location + Time Data
+           ↓
+   Spatio-temporal Features
+           ↓
+   Demand Prediction Model
+           ↓
+   Hotspot Forecasting Engine
+           ↓
+   Driver Allocation Strategy
+```
+
+---
+
+### 📊 Impact
+
+* Identified **supply-demand imbalance**
+* Improved driver positioning strategy
+* Reduced inefficiencies in ride allocation
+
+---
+
+# 🛠️ Tech Stack
+
+**ML & AI**
+PyTorch • TensorFlow • Transformers • scikit-learn
+Time-series Forecasting • Deep Learning • LLM evaluation
+
+**MLOps & Systems**
+Docker • Triton Inference Server • ML Pipelines
+AWS (S3, EC2, SageMaker) • GPU clusters (CSC Puhti)
+
+**Data & Analytics**
+Pandas • NumPy • SQL • EDA • Statistical Modeling
+
+**Visualization**
+Plotly • Streamlit • Dash • Power BI • Tableau
+
+---
+
+# 🧠 Engineering Mindset
+
+```text
+I don’t just train models —
+I design systems that make models useful in production.
+```
+
+---
+
+# 📊 GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bashiralam185\&show_icons=true\&theme=tokyonight\&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bashiralam185\&layout=compact\&theme=tokyonight\&hide_border=true)
+
+---
+
+# 📫 Contact
+
+📧 [bashir.alam@abo.fi](mailto:bashir.alam@abo.fi)
+💼 LinkedIn: (add link)
+💻 GitHub: GitHub / bashiralam185
+
+---
+
+## ⭐ Final Note
+
+> “Strong ML engineers are not defined by models they train, but by systems they build and deploy.”
+
+---
+
+⭐ Explore my repositories to see production ML systems, applied AI engineering, and real-world machine learning design.
 
 ---
 
