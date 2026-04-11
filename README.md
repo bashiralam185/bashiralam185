@@ -1,109 +1,138 @@
-# Bashir Alam
+<!-- ================= HEADER ================= -->
 
-### Machine Learning Engineer | Production AI Systems | Applied ML
+<h1 align="center">Hi 👋, I'm Bashir Alam</h1>
 
-Building **end-to-end machine learning systems** that drive real-world decisions
-📍 Turku, Finland 🇫🇮 | Open to ML / AI roles across Europe
+<h3 align="center">
+Machine Learning Engineer • Production AI Systems • Applied ML
+</h3>
+
+<p align="center">
+📍 Turku, Finland 🇫🇮 • Open to ML / AI roles across Europe
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=650&lines=Building+Production-Grade+ML+Systems;End-to-End+AI+Engineering;Data+→+Models+→+Impact;Scaling+ML+for+Real-World+Use" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bashiralam185&color=blue&style=flat-square" />
+</p>
 
 ---
 
+<!-- ================= CONNECT ================= -->
+
+## 🔗 Connect With Me
+
+<p align="center">
+<a href="mailto:bashir.alam@abo.fi">
+  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+</a>
+<a href="https://www.linkedin.com/in/bashir-alam/">
+  <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin">
+</a>
+<a href="https://github.com/bashiralam185">
+  <img src="https://img.shields.io/badge/GitHub-Portfolio-black?style=for-the-badge&logo=github">
+</a>
+</p>
+
+---
+
+<!-- ================= VALUE ================= -->
+
 ## ⚡ What Makes Me Different
 
-I don’t just build models —
-I design **production-grade ML systems** that connect:
+> I don’t just build models — I build **production-grade ML systems**
 
 ```text
 Data → Models → Infrastructure → Business Impact
 ```
 
-✔️ Real-world deployment experience
-✔️ Full ownership (data → model → deployment → monitoring)
-✔️ Strong focus on **system design + scalability + impact**
+✔️ End-to-end ownership (data → deployment → monitoring)
+✔️ Real-world production ML experience
+✔️ Strong focus on scalability, system design & impact
 
 ---
 
-## 🏗️ Featured Systems (Real-World ML)
+<!-- ================= PROJECTS ================= -->
 
----
+## 🏗️ Featured Systems (Click to Expand)
 
-### 🛒 Retail Demand Forecasting Platform (Production)
+<details>
+<summary>🛒 Retail Demand Forecasting Platform (Production)</summary>
 
-**Problem:**
-Businesses struggle with accurate forecasting for budgeting & inventory
+**Built:**
 
-**What I Built:**
-
-* End-to-end **multi-level forecasting system**
-* Models for **sales, orders, product demand**
-* Fully deployed pipeline used by **real clients**
+* Multi-level forecasting system (sales, orders, demand)
+* Fully deployed pipeline used by real clients
 
 ```text
-POS Data → Feature Engineering → Forecast Models → API/Batch → Business Teams
+POS Data → Feature Engineering → Forecast Models → API → Business Teams
 ```
 
 **Impact:**
 
 * 📊 Improved forecasting accuracy
 * 💰 Enabled data-driven budgeting
-* 📦 Supporting inventory optimization (ongoing)
+* 📦 Inventory optimization
+
+</details>
 
 ---
 
-### 🧪 Multimodal AI Benchmarking System
+<details>
+<summary>🧪 Multimodal AI Benchmarking System</summary>
 
-**Problem:**
-No reliable way to evaluate vision-language models in real-world scenarios
+**Built:**
 
-**What I Built:**
-
-* Scalable **benchmarking pipeline for VLMs**
-* Dockerized inference using **Triton Server**
-* Scenario-based evaluation (traffic, indoor, anomalies)
+* Scalable benchmarking pipeline for VLMs
+* Triton inference deployment
+* Scenario-based evaluation
 
 ```text
-Image Data → Scenario Engine → VLM Inference → Evaluation → Benchmark Reports
+Image → Scenario Engine → VLM → Evaluation → Reports
 ```
 
 **Impact:**
 
-* 🧠 Improved model selection strategies
-* ⚠️ Robustness testing for safety-critical use cases
+* 🧠 Improved model selection
+* ⚠️ Robustness testing for real-world scenarios
+
+</details>
 
 ---
 
-### 🏥 Medical OCR Intelligence System
+<details>
+<summary>🏥 Medical OCR Intelligence System</summary>
 
-**Problem:**
-Unstructured medical prescriptions → unusable data
+**Built:**
 
-**What I Built:**
-
-* OCR + NLP pipeline for structured extraction
-* Data validation tools for quality improvement
+* OCR + NLP structured extraction pipeline
+* Data validation framework
 
 ```text
-PDF → OCR → Text Structuring → Validation → Healthcare DB
+PDF → OCR → Structuring → Validation → Healthcare DB
 ```
 
 **Impact:**
 
-* 📄 Automated medical record digitization
+* 📄 Automated medical digitization
 * 🏥 Improved healthcare data accessibility
 
+</details>
+
 ---
 
-### 🚖 Mobility Demand Prediction System
+<details>
+<summary>🚖 Mobility Demand Prediction System</summary>
 
-**Problem:**
-High ride cancellations due to supply-demand imbalance
+**Built:**
 
-**What I Built:**
-
-* Spatio-temporal demand forecasting models
+* Spatio-temporal demand forecasting
 * Driver allocation insights
 
 ```text
-Time + Location → Features → Demand Model → Hotspots → Allocation Strategy
+Time + Location → Features → Demand Model → Hotspots
 ```
 
 **Impact:**
@@ -111,32 +140,58 @@ Time + Location → Features → Demand Model → Hotspots → Allocation Strate
 * 🚗 Reduced inefficiencies
 * ⏱️ Improved rider experience
 
+</details>
+
 ---
+
+<!-- ================= STATS ================= -->
+
 ## 📊 GitHub Overview
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=bashiralam185&theme=tokyonight)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=bashiralam185&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+<!-- ================= TECH ================= -->
 
 ## 🛠️ Tech Stack
 
 ### 🤖 Machine Learning
 
-PyTorch • TensorFlow • Transformers • scikit-learn
-Time-Series Forecasting • Deep Learning • LLM Evaluation
+![PyTorch](https://img.shields.io/badge/PyTorch-orange?logo=pytorch)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?logo=tensorflow)
+![Transformers](https://img.shields.io/badge/Transformers-yellow)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-blue)
+
+---
 
 ### ⚙️ MLOps & Systems
 
-Docker • Triton Inference Server • ML Pipelines
-AWS (S3, EC2, SageMaker) • GPU Clusters
+![Docker](https://img.shields.io/badge/Docker-blue?logo=docker)
+![AWS](https://img.shields.io/badge/AWS-orange?logo=amazonaws)
+![Triton](https://img.shields.io/badge/Triton-Inference-green)
+
+---
 
 ### 📊 Data & Analytics
 
-Pandas • NumPy • SQL • EDA • Statistical Modeling
+![Pandas](https://img.shields.io/badge/Pandas-black?logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-blue)
+![SQL](https://img.shields.io/badge/SQL-lightgrey)
+
+---
 
 ### 📈 Visualization
 
-Plotly • Streamlit • Dash • Power BI • Tableau
+![Plotly](https://img.shields.io/badge/Plotly-purple)
+![Streamlit](https://img.shields.io/badge/Streamlit-red)
+![PowerBI](https://img.shields.io/badge/PowerBI-yellow)
 
 ---
+
+<!-- ================= THINKING ================= -->
 
 ## 🧠 How I Think
 
@@ -144,56 +199,50 @@ Plotly • Streamlit • Dash • Power BI • Tableau
 Most ML projects fail not because of bad models,
 but because of poor system design.
 
-I focus on building systems that make models usable.
+I build systems that make models usable.
 ```
 
 ---
 
+<!-- ================= FOCUS ================= -->
+
 ## 🔬 Current Focus
 
-* 🧠 LLM evaluation & applied GenAI systems
-* 📊 Advanced time-series forecasting
-* ⚙️ Scalable ML infrastructure
-* 🧪 Real-world AI benchmarking
+* 🧠 LLM Evaluation & GenAI Systems
+* 📊 Advanced Time-Series Forecasting
+* ⚙️ Scalable ML Infrastructure
+* 🧪 Real-World AI Benchmarking
 
 ---
 
+<!-- ================= EXPERIENCE ================= -->
 
-## 💼 Experience Snapshot
+## 💼 Experience
 
 **Machine Learning Researcher — Zoined (Finland)**
-
-* Built production **forecasting systems for retail clients**
-* End-to-end ownership from data → deployment
+→ Built production forecasting systems for retail clients
 
 **Multimodal AI Intern — AiLiveSim**
-
-* Designed **VLM benchmarking pipeline**
-* Built scalable **Docker + Triton system**
+→ Designed VLM benchmarking + Triton systems
 
 **ML Engineer — Uexel**
-
-* Developed **OCR pipeline for healthcare data**
+→ Developed OCR pipeline for healthcare
 
 **ML Engineer — Reviro**
-
-* Built **demand prediction models for ride-hailing**
-
----
-
-## 📫 Let’s Connect
-
-📧 [bashir.alam@abo.fi](mailto:bashir.alam@abo.fi)
-💼 https://www.linkedin.com/in/bashir-alam/
+→ Built demand prediction systems for mobility
 
 ---
+
+<!-- ================= PHILOSOPHY ================= -->
 
 ## 💡 Philosophy
 
-> “ML is not about models — it’s about building systems that create impact.”
+> “ML is not about models — it’s about systems that create impact.”
 
 ---
 
-⭐ If you're a recruiter or hiring manager:
-This profile reflects **real-world ML system design, not just experiments**.
-Happy to discuss production projects and architecture decisions.
+<p align="center">
+⭐ If you're a recruiter or hiring manager:<br>
+This profile reflects real-world ML systems — not just experiments.<br>
+Happy to discuss production architecture and design decisions.
+</p>
