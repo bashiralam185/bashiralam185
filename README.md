@@ -11,7 +11,7 @@ Machine Learning Engineer • Production AI Systems • Applied ML
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=650&lines=Building+Production-Grade+ML+Systems;End-to-End+AI+Engineering;Data+→+Models+→+Impact;Scaling+ML+for+Real-World+Use" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00bfff&center=true&vCenter=true&width=650&lines=Building+Production-Grade+ML+Systems;End-to-End+AI+Engineering;Data+→+Models+→+Impact;Scaling+ML+for+Real-World+Use" />
 </p>
 
 <p align="center">
