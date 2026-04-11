@@ -1,8 +1,8 @@
-# 🧠 Bashir Alam
+# Bashir Alam
 
 ### Machine Learning Engineer | Production AI Systems | Applied ML
 
-🚀 Building **end-to-end machine learning systems** that drive real-world decisions
+Building **end-to-end machine learning systems** that drive real-world decisions
 📍 Turku, Finland 🇫🇮 | Open to ML / AI roles across Europe
 
 ---
