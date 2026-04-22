@@ -98,12 +98,6 @@ Data  →  Feature Engineering  →  Model  →  Infrastructure  →  Business I
 
 <!-- ================= CONTRIBUTION SNAKE ================= -->
 
-## 🐍 Contribution Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/bashiralam185/bashiralam185/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"/>
-  <img src="https://raw.githubusercontent.com/bashiralam185/bashiralam185/output/github-contribution-grid-snake.svg#gh-light-mode-only"/>
-</p>
 
 > **Note:** To enable the snake animation, create `.github/workflows/snake.yml` in your profile repo — see [Platane/snk](https://github.com/Platane/snk) for setup instructions.
 
