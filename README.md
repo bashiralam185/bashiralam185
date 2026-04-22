@@ -78,23 +78,6 @@ Data  →  Feature Engineering  →  Model  →  Infrastructure  →  Business I
 
 <!-- ================= GITHUB STATS ================= -->
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=bashiralam185&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/> -->
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bashiralam185&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=bashiralam185&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bashiralam185&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
 
 <!-- ================= CONTRIBUTION SNAKE ================= -->
 
